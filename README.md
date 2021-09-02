@@ -81,7 +81,7 @@ Things you may want to cover:
 
 ### Association
 
-- belongs_to :item
+- belongs_to :user
 - belongs_to :diary
 - has_many :scores
 
